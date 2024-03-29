@@ -33,7 +33,7 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "allchats",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
@@ -42,7 +42,7 @@ module.exports = {
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
-  MAX_SIZE : 100,
+  MAX_SIZE : 250,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
